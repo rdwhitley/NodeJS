@@ -1,0 +1,14 @@
+.title {
+	border: 2px solid;
+	text-align: center;
+}
+
+.flex {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	font-family: 'Nerko One', cursive;
+}
+
+.flex p {
+	padding: 5px;
+}
